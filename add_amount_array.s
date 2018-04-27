@@ -36,6 +36,7 @@ loop1:
 	b loop1
 	
 end_loop:
+	;; I do not take credit for the lines of code below this line as they were provided by the professor.
 	
 	;; ---DO NOT REMOVE OR EDIT THE CODE BELOW THIS COMMENT---
 	;; The code below will print out the contents of the
